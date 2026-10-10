@@ -1,2 +1,3 @@
 # DSA
-<h3>Practing DATA STRUCTURES like arrays , stack and queue</h3>
+<h3>Practing DATA STRUCTURES</h3>
+<p>ARRAYS, STACK and QUEUE </p>
